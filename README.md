@@ -8,5 +8,6 @@
 
 
 ## Module
-1. Numpy  : pip install numpy
-2. Sklearn : pip install -U scikit-learn [blue_text](url_here)
+1. Numpy  : pip install numpy  ([Numpy website](https://numpy.org/install/))
+2. Sklearn : pip install -U scikit-learn  ([Sklearn website](https://scikit-learn.org/stable/install.html))
+3. Telegram bot python : pip install python-telegram-bot --upgrade  ([Telegram bot github](https://github.com/python-telegram-bot/python-telegram-bot))
