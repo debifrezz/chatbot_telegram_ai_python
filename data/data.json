@@ -1,0 +1,83 @@
+{"intents": [
+    {"tag": "salam",
+     "patterns": [
+        "Hai",
+        "Hi", 
+        "Halo", 
+        "Hallo",
+        "Woy",
+        "Cuy",
+        "Apa Kabar", 
+        "Selamat Pagi", 
+        "Selamat Siang", 
+        "Selamat Malam", 
+        "Salam", 
+        "Ping", 
+        "P"],
+     "responses": [
+        "Halo!", 
+        "Hai", 
+        "Halo Jugaa", 
+        "Halo selamat datang", 
+        "Hai Kawan"]
+    },
+    {"tag": "bye",
+     "patterns": [
+        "Dadah", 
+        "Selamat Tinggal", 
+        "Dah", 
+        "Daah", 
+        "Semoga harimu menyenangkan", 
+        "Ok makasih", 
+        "Sampai Jumpa Lagi", 
+        "Ok bye"],
+     "responses": [
+        "ye bego lo", 
+        "ga usah balik lagi lo", 
+        "Semoga harimu selalu senin!",
+        "Semoga kalender kamu selalu hitam"]
+    },
+    {"tag": "nama",
+     "patterns": [
+        "nama kamu siapa?", 
+        "lu siapa?", 
+        "siapa sih lo?", 
+        "lu sape ?", 
+        "nama lo sape dah ?", 
+        "nama?",
+        "iya", 
+        "iya woy"],
+     "responses": [
+        "Kamu nanyea??", 
+        "Kamu bertanyea-tanyea??", 
+        "Sini aku kasih tau ya, nama ku cepmek",
+        "cepmek, cepak mekar"]
+    },
+    {"tag": "pekerjaan",
+     "patterns": [
+        "lu ngapain?", 
+        "pekerjaan kamu apa?", 
+        "lu kerja apa?", 
+        "tugas kamu apa?", 
+        "tugas lo ngapain?"],
+     "responses": [
+        "Kamu nanyea??", 
+        "Kamu bertanyea-tanyea??",
+        "Sini aku kasih tau ya...",
+        "Aku, pengangguran..."]
+    },
+    {"tag": "kemampuan",
+     "patterns": [
+        "kamu bisa apa?", 
+        "apa yang bisa anda lakukan?", 
+        "kamu bisa ngapain aja?", 
+        "lo bisa ngapain?", 
+        "apa kemampuan lo?"],
+     "responses": [
+        "Kamu nanyea??", 
+        "Kamu bertanyea-tanyea??",
+        "kepo ah elu",
+        "jangan banyak tanya deh"]
+    }
+]
+}
